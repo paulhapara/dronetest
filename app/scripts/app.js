@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('directiveExampleApp', [])
+angular.module('dronetestApp', [])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
